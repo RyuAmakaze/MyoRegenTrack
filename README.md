@@ -73,7 +73,9 @@ torchrun --master_port 7777 MyoRegenTrack.py
 <!------------------------------------------------------------------------>
 
 # Run on your data
-You can use [some args](https://github.com/RyuAmakaze/Private_MyoRegenTrack/blob/main/main/MyoRegenTrack.py#L174-L207).
+You can use some args as below.
+[file path](https://github.com/RyuAmakaze/MyoRegenTrack/blob/main/main/MyoRegenTrack.py#L242-L251)<br>
+[inference param](https://github.com/RyuAmakaze/MyoRegenTrack/blob/main/main/MyoRegenTrack.py#L242-L251)<br>
 
 <details><summary>one image data</summary> 
 MyoRegenTrack can run ".png", ".jpg", and ".tif".<br>
