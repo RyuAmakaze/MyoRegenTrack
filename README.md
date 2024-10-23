@@ -20,6 +20,8 @@ nvidia-smi
 docker
 ```
 
+https://github.com/user-attachments/assets/fe62a32b-9937-48f1-8bcc-f356429e1ea6
+
 </details>
 
 <!------------------------------------------------------------------------>
