@@ -51,11 +51,15 @@ sudo docker build -t image_name .
 cd ..
 ```
 
+https://github.com/user-attachments/assets/c15a3cef-5c35-415b-996f-09f115c7ea84
+
 ## Run Container
 `$pwd` is mount current dir．<br>
 ```
 sudo docker run -it --shm-size 2g --gpus all -v $(pwd):/workspace image_name 
 ```
+
+https://github.com/user-attachments/assets/355d5f5d-ada2-4089-b7e7-366c24778592
 
 </details>
 
@@ -69,6 +73,8 @@ sudo docker run -it --shm-size 2g --gpus all -v $(pwd):/workspace image_name
 cd main
 torchrun --master_port 7777 MyoRegenTrack.py
 ```
+
+https://github.com/user-attachments/assets/6b57e17f-5ed9-4566-9583-a8a8a20c5920
 
 </details>
 
