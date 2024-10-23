@@ -19,7 +19,8 @@ Please check below commnd.
 nvidia-smi
 docker
 ```
-![step1-Trim](https://github.com/user-attachments/assets/bdb29ff1-4ad4-4240-8689-23b0ac618963)
+
+https://github.com/user-attachments/assets/a9293849-a3ef-4317-afe3-0360404af5eb
 
 </details>
 
@@ -33,7 +34,8 @@ cd model
 wget https://dl.fbaipublicfiles.com/dino/dino_vitbase8_pretrain/dino_vitbase8_pretrain.pth
 cd ..
 ```
-![step2](https://github.com/user-attachments/assets/116d8ff6-40fc-4ebc-8150-c42d23023992)
+
+https://github.com/user-attachments/assets/737c9897-4eb3-4a06-8b30-cd3535526de9
 
 </details>
 
