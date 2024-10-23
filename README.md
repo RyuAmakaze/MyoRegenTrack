@@ -76,6 +76,9 @@ torchrun --master_port 7777 MyoRegenTrack.py
 
 https://github.com/user-attachments/assets/6b57e17f-5ed9-4566-9583-a8a8a20c5920
 
+![image](https://github.com/user-attachments/assets/645a59eb-7c67-4bfc-8683-a9c74f2562c6)
+
+
 </details>
 
 <!------------------------------------------------------------------------>
