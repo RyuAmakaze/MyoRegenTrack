@@ -1,4 +1,5 @@
 # MyoRegenTrack
+paper : https://doi.org/10.1038/s41598-024-78433-z
 Evaluating the regeneration stage of each fiber in muscle tissue of HE-stained.<be>
 (using [Cellpose](https://github.com/MouseLand/cellpose), [DINO](https://github.com/facebookresearch/dino))<br>
 ![supplementary2](https://github.com/user-attachments/assets/52f8e5cc-423f-45ca-ab71-1cd013890b8c)<br>
