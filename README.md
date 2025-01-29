@@ -113,3 +113,16 @@ torchrun --master_port 7777 MyoRegenTrack.py \
 ```
 
 </details>
+
+# cite (Bibtex)
+```
+@article{yamaoka2024myoregentrack,
+  title={Quantifying the recovery process of skeletal muscle on hematoxylin and eosin stained images via learning from label proportion},
+  author={Yamaoka, Yu and Chan, Weng Ian and Seno, Shigeto and Iwamori, Kanako and Fukada, Soichiro and Matsuda, Hideo},
+  doi = {https://doi.org/10.1038/s41598-024-78433-z},
+  journal={Scientific Reports},
+  volume={14},
+  number = {27044},
+  year={2024}
+}
+```
