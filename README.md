@@ -5,10 +5,10 @@ Evaluating the regeneration stage of each fiber in muscle tissue of HE-stained.<
 ![supplementary2](https://github.com/user-attachments/assets/52f8e5cc-423f-45ca-ab71-1cd013890b8c)<br>
 
 cell_num:7690<br>
-MB:0.5200589964637902[%]<br>
-MF:0.03366217368574842[%]<br>
-LMT:0.11797861576962755[%]<br>
-SMT:0.3283002140808339[%]<br>
+Early:0.5200589964637902[%]<br>
+Mid:0.3283002140808339[%]<br>
+Late:0.11797861576962755[%]<br>
+Stable:0.03366217368574842[%]<br>
 recovery_score:0.3629537549619246<br>
 
 # Quick Start
